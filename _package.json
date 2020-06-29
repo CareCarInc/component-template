@@ -33,5 +33,9 @@
     "!*.test.*",
     "!__snapshots__",
     "!__tests__"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
 }
